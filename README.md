@@ -22,4 +22,5 @@ Replicate the paper to practice the SAS
 
 ## 以下說明這份Project中所包含的檔案以及Code的用途。
 
-### CalculateBHR_AR.sas
+#### CalculateBHR_AR.sas
+  由於此研究中需要使用到各IPOs公司在不同期間內的持有期間累積報酬(BHR)以及持有期間累積超額報酬(AR)，因此我們利用TEJ抓取每一家公司於上市(櫃)後三年的日報酬率，以及對應其市場(TSE 或 OTC)的市場日報酬率，進而用以計算BHR 及AR，並將Code存放於CalculateBHR_AR.sas中，另外，需要注意的是，由於樣本中有些於證交所(TSE)上市，有些於櫃買中心(OTC)上櫃，因此，需要先區分出各樣本所屬市場為何，並Merge他們所屬的市場日報酬。
