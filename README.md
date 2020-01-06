@@ -1,7 +1,7 @@
 # SAS_FinalProject_1231
 Replicate the paper to practice the SAS 
 
-# Paper內容描述：
+## Paper內容描述：
   此份Paper題目為： 申購積極性對新上市公司股票績效的影響，作者為 王朝仕(Chao-Shi Wang);陳振遠(Roger C. Y. Chen)，於2008年發佈於管理學報上，此文獻研究目的主要有兩個：
    1. 探討投資人在申購市場之積極性對 新上市(櫃)公司 (IPOs) 上市後績效的影響。
    2. 嘗試解釋影響投資人申購積極性的因素。
@@ -22,4 +22,4 @@ Replicate the paper to practice the SAS
 
 ## 以下說明這份Project中所包含的檔案以及Code的用途。
 
-# CalculateBHR_AR.sas
+### CalculateBHR_AR.sas
