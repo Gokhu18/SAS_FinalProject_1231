@@ -29,6 +29,10 @@ Replicate the paper to practice the SAS
 #### FirstAndInnitialPriorReturn.sas
   在探討何種因子會影響申購積極性時，作者使用了市場時機作為其中一種解釋變數，市場時機包含三種，分別為IPOs公司上市前一個月其他IPOs公司之首日報酬、期初報酬(上市(櫃)後五天)及IPOs上市前10天市場投組累積報酬，我們將計算其他IPOs之首日報酬以及期初報酬之Code記錄於FirstAndInnitialPriorReturn.sas中，另外，計算此變數之資料來源為TEJ，我們透過TEJ抓取個IPOs公司之上市首日及上市後五日之股價，計算首日及期初報酬，最後將資料輸出後合併。
   
+#### Market_Return_Prior_10Days.sas
+  市場時機的
+
+  
   
   
   
